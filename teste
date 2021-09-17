@@ -1,0 +1,7 @@
+st = open ("index.html","w")
+st.write ("<html lang=\"pt-BR\">\n")
+st.write ("<head>\n")
+st.write ("<title>penis</title>\n)
+st.write ("</head>\n")
+st.write ("<body>\n")
+st.write ("Penis?")
